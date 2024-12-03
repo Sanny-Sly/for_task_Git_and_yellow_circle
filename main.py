@@ -1,7 +1,7 @@
-from PyQt5 import uic
-from PyQt5.QtWidgets import QApplication, QMainWindow
-from PyQt5.QtWidgets import QPushButton
-from PyQt5.QtGui import QPainter, QColor, QPolygon
+from PyQt6 import uic
+from PyQt6.QtWidgets import QApplication, QMainWindow
+from PyQt6.QtWidgets import QPushButton
+from PyQt6.QtGui import QPainter, QColor, QPolygon
 import sys
 import random
 from UI import Ui_MainWindow
